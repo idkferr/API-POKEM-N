@@ -1,0 +1,14 @@
+body {
+  margin: 0; /* Elimina el margen predeterminado del cuerpo */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; /* Define la fuente para el cuerpo con una serie de fuentes de sistema */
+  -webkit-font-smoothing: antialiased; /* Suaviza el texto en navegadores webkit como Chrome y Safari */
+  -moz-osx-font-smoothing: grayscale; /* Suaviza el texto en Firefox en macOS */
+  background-color: #2d6494; /* Establece el color de fondo del cuerpo */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; /* Define la fuente para los elementos <code> */
+}

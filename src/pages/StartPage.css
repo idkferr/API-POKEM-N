@@ -1,0 +1,11 @@
+.start-page {
+    background-image: url('../fotofondo.jpg'); /* Establece la imagen de fondo desde la ruta especificada */
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir completamente el contenedor */
+    background-position: center; /* Centra la imagen de fondo */
+    background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+    height: 100vh; /* Establece la altura del contenedor al 100% del viewport (altura visible del navegador) */
+    display: flex; /* Usa flexbox para alinear elementos */
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+  }
+  
